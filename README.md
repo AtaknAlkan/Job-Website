@@ -6,4 +6,4 @@ Bu sitede iş alımı yapan şirketleri ve sunulan şartları inceleyebilir ve b
 
 HTML5 ve CSS3
 
-![](job ekran.gif)
+![](ekran.gif)
